@@ -26,10 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shalomjaison)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shalomjaison@outlook.com)
 
-### 🔥 Extras
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
-[![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 <!--
 **shalomjaison/shalomjaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

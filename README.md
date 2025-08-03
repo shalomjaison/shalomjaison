@@ -45,7 +45,7 @@
 | **Sundown-Studio Clone** | `CSS`, `GSAP`, `Locomotive Scroll`, `Swiper.js`, `HTML`, `JS` | Animation-heavy site inspired by top-tier studio landing pages |
 | **Two-Good** | `HTML`, `JS`, `CSS`, `GSAP` | Minimalist landing page with skew-follow cursor & hover reveals |
 | **Personal Website** | `JS`, `GSAP`, `HTML`, `CSS` | Design-first portfolio with 3D visuals and scroll animations |
-| **Leap Drive** | `Arduino`, `C++`, `Breadboard`, `Bluetooth` | DIY jumping car that interprets smartphone tilt to control direction and leap — [Featured on UMass Gateway](https://www.umass.edu/gateway/research/stories/hands-on-lesson-diy-physical-computing) |
+| **Leap Drive** | `Arduino`, `C++`, `Breadboard`, `Bluetooth` |  Jumping car that jumps on command through a web interface — [Featured on UMass Gateway](https://www.umass.edu/gateway/research/stories/hands-on-lesson-diy-physical-computing) |
 ---
 
 

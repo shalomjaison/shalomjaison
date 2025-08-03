@@ -40,12 +40,12 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| **Message Analyzer** | `Python`, `Flask-ML`, `Jupyter` | Extracts Actus Reus / Mens Rea from chat messages using LLMs |
-| **NotifAI** | `HTML`, `Node.js`, `Express` | Notification-as-a-Service: Event-driven messaging platform |
-| **Sundown-Studio Clone** | `CSS`, `GSAP`, `Locomotive Scroll` | Animation-heavy site inspired by top-tier studio landing pages |
-| **Two-Good** | `HTML`, `JS` | Minimalist landing page with skew-follow cursor & hover reveals |
-| **Personal Website** | `React`, `Framer Motion`, `Vite` | Design-first portfolio with 3D visuals and scroll animations |
-
+| **Message Analyzer** | `Python`, `Flask-ML`, `Jupyter`, `ONNX` | Extracts Actus Reus / Mens Rea from chat messages using LLMs |
+| **NotifAI** | `HTML`, `Node.js`, `Express`, `React`, `CSS` | Notification-as-a-Service: Event-driven messaging platform |
+| **Sundown-Studio Clone** | `CSS`, `GSAP`, `Locomotive Scroll`, `Swiper.js`, `HTML`, `JS` | Animation-heavy site inspired by top-tier studio landing pages |
+| **Two-Good** | `HTML`, `JS`, `CSS`, `GSAP` | Minimalist landing page with skew-follow cursor & hover reveals |
+| **Personal Website** | `JS`, `GSAP`, `HTML`, `CSS` | Design-first portfolio with 3D visuals and scroll animations |
+| **Leap Drive** | `Arduino`, `C++`, `Breadboard`, `Bluetooth` | DIY jumping car that interprets smartphone tilt to control direction and leap — [Featured on UMass Gateway](https://www.umass.edu/gateway/research/stories/hands-on-lesson-diy-physical-computing) |
 ---
 
 

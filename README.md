@@ -22,6 +22,18 @@
 
 ---
 
+### 🧩 Animation & UI Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000" />
+  <img src="https://img.shields.io/badge/FramerMotion-black?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocomotiveScroll-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lenis-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/SwiperJS-6332f6?style=flat-square&logo=swiper&logoColor=white" />
+</p>
+
+---
+
 
 ### 📌 Pinned Projects
 

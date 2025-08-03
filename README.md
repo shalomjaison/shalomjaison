@@ -25,11 +25,11 @@
 ### 🧩 Animation & UI Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000" />
-  <img src="https://img.shields.io/badge/FramerMotion-black?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/LocomotiveScroll-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lenis-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SwiperJS-6332f6?style=flat-square&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" />
+  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocomotiveScroll-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lenis-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SwiperJS-6332f6?style=for-the-badge&logo=swiper&logoColor=white" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 
 
 ### 📫 **Let’s Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shalomjaison)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shalomjaison@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shalomjaison)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalomjaison@outlook.com)
 
 
 <!--
